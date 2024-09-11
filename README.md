@@ -1,7 +1,7 @@
 
 # Retrieval Augmented Generation for PDF documents 
 
-A simplified RAG system which generates context specific responses using LLMs(Llama3.1). Built Ollama, LangChain and HuggingFace_embeddings.
+A simplified RAG system which generates context specific responses using LLMs(Llama3.1). Built using llama3.1, LangChain and HuggingFace_embeddings.
 
 
 Why RAG?
